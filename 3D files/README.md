@@ -6,5 +6,5 @@ CC BY-NC-SA
 https://creativecommons.org/licenses/by-sa/3.0/deed
 
 ## Attribution
-Design by SFR
+Design by Gabriel Constantin
 
