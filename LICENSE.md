@@ -6,5 +6,6 @@ CC BY-NC-SA
 https://creativecommons.org/licenses/by-sa/3.0/deed
 
 ## Attribution
-Design by Gabriel Constantin
+Design by Radu Enachescu
+
 
